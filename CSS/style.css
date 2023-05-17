@@ -1,0 +1,33 @@
+body{
+}
+h1{
+ text-align: center;
+ font-family: "Times New Roman", Times, serif;
+}
+.sectiontext{
+ font-size: 100%;
+ font-family: 'Courier New', Courier, monospace;
+ margin: 3 px;
+ padding: 3 px;
+ text-align: center;
+}
+.sectiontext{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ margin: 1 px;
+ padding: 1 px;
+}
+.center {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ position: relative;
+ top:30%;
+}
+.info{
+ margin-left: 2px;
+}
+.info2{
+ position: absolute;
+ bottom: 10%;
+ left: 20%;
+}
